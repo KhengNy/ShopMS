@@ -8,3 +8,6 @@ C:\Users\Kheng Ny\documents\visual studio 2013\Projects\ShopMS\ShopMS\obj\Debug\
 C:\Users\Kheng Ny\documents\visual studio 2013\Projects\ShopMS\ShopMS\obj\Debug\ShopMS.pdb
 C:\Users\Kheng Ny\documents\visual studio 2013\Projects\ShopMS\ShopMS\obj\Debug\ShopMS.Testing.resources
 C:\Users\Kheng Ny\documents\visual studio 2013\Projects\ShopMS\ShopMS\obj\Debug\ShopMS.SetUpLisence.resources
+C:\WrokSpace\PHP\ShopMS\ShopMS\bin\Debug\ShopMS.exe.config
+C:\WrokSpace\PHP\ShopMS\ShopMS\obj\Debug\ShopMS.exe
+C:\WrokSpace\PHP\ShopMS\ShopMS\obj\Debug\ShopMS.pdb
